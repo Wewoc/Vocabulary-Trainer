@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Instanz-lokale, generierte Daten (Portable-Mode, nie eingecheckt)
+config.json
+daten/
+metadaten/
+logs/
